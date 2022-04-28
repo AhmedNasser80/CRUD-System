@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(240, 240, 240);
+}
+.header
+{
+    border-left: 5px solid #0d6efd;
+}
+.icons-group
+{
+    font-size: 20px;
+    color: #0d6efd;
+}
+.icons-group i
+{
+    border: 2px solid #0d6efd;
+    padding :10px 15px;
+    border-radius: 20px;
+    margin: 0 20px;
+    transition: all 0.2s;
+}
+.icons-group i:hover
+{
+    background-color: #0d6efd;
+    color: white;
+}
+.modal-header h4
+{
+    padding-left: 20px;
+    border-left: 5px solid #0d6efd;
+}
+textarea
+{
+    resize: none;
+}
+
